@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetViewer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetViewer_jar</output-path>
+    <root id="archive" name="NetViewer.jar">
+      <element id="module-output" name="NetViewer" />
+    </root>
+  </artifact>
+</component>
